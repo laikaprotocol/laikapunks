@@ -1,0 +1,15 @@
+{
+    "image": "https://raw.githubusercontent.com/laikaprotocol/laikapunks/main/images/2.png",
+    "tokenId": 3,
+    "name": "Ironman",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hero"
+        }
+    ]
+}
